@@ -88,8 +88,10 @@ Pegando ainda na fotografia do 1º presidente da República Portuguesa, a descri
 
 #### 3.4.1. Exemplo 1: Descrição longa incorporada no próprio documento
 
-![Manuel de Arriaga (1º presidente da República Portuguesa)](https://www.acessibilidade.gov.pt/wp-content/uploads/2020/04/1_imagens_3.jpg)
+
 *Figura 4: Descrição longa incorporada no próprio documento*
+
+![Manuel de Arriaga (1º presidente da República Portuguesa)](https://www.acessibilidade.gov.pt/wp-content/uploads/2020/04/1_imagens_3.jpg)
 
 Manuel de Arriaga Brum da Silveira  
 Horta, Faial, 8/7/1840 - Lisboa, 5/3/1917.  
@@ -133,8 +135,9 @@ Quem concebe páginas web usa com frequência imagens transparentes, geralmente 
 ### 4.3 Imagens redundantes
 Com frequência, quem desenvolve páginas web, adiciona texto alternativo a uma imagem que é exactamente igual ao texto que se lhe segue, como se mostra no exemplo abaixo:
 
-![Exemplo de uma imagem com texto adjacente redundante](https://www.acessibilidade.gov.pt/wp-content/uploads/2020/04/1_imagens_6.jpg)
 Figura 6: Não repita no texto alternativo da imagem o texto que lhe está adjacente
+
+![Exemplo de uma imagem com texto adjacente redundante](https://www.acessibilidade.gov.pt/wp-content/uploads/2020/04/1_imagens_6.jpg)
 
 Figura 6: a imagem repete o texto que lhe está adjacente: "Proposta de Lei do Orçamento de Estado para 2007". retirado de [http://www.min-financas.pt](http://www.min-financas.pt) em Outubro 2006.
 
@@ -148,8 +151,10 @@ Alguns designers usam elementos gráficos para destacar, ou ilustrar, cada um do
 
 Assim deveremos colocar como texto alternativo algo como `alt="-"` ou `alt="*"`.
 
-![Exemplo de bullets gráficos](https://www.acessibilidade.gov.pt/wp-content/uploads/2020/04/1_imagens_8.jpg)
 Figura 7: O exemplo de bullets gráficos.
+
+![Exemplo de bullets gráficos](https://www.acessibilidade.gov.pt/wp-content/uploads/2020/04/1_imagens_8.jpg)
+
 ---
 ## Imagem para ligar a outras áreas do sítio web
 ### 5.1. O caso do mapa de imagem
@@ -159,8 +164,9 @@ Cada uma das áreas activas é um link que importa descortinar o seu propósito.
 
 Para além da definição do texto alternativo das áreas activas é necessário também definir o texto alternativo para a imagem, no seu global. Neste caso deveremos definí-lo com o nome que corresponde ao significado deste elemento, ou seja, algo como alt="Menu Principal".
 
-![Menu feito com um mapa de imagem](https://www.acessibilidade.gov.pt/wp-content/uploads/2020/04/1_imagens_7.jpg)
 Figura 8: O caso dos textos alternativos para um mapa de imagem.
+
+![Menu feito com um mapa de imagem](https://www.acessibilidade.gov.pt/wp-content/uploads/2020/04/1_imagens_7.jpg)
 
 O código que formata este elemento é:
 ```html

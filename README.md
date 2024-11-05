@@ -68,8 +68,10 @@ Figura 2: `<img ....="" alt="Compromisso com a ciência para o futuro de portuga
 
 Uma imagem, quando afixada numa página web pode ter múltiplos propósitos. Vamos imaginar que um professor numa aula de fotografia coloca esta imagem (figura 3) a par de outras para mostrar a diferença entre a qualidade de uma fotografia tirada no início do século XX de uma outra tirada no final do século XX.
 
-![Fotografia do início do século XX](https://www.acessibilidade.gov.pt/wp-content/uploads/2020/04/1_imagens_3.jpg)
 *Figura 3: Como legendar uma fotografia?*
+
+![Fotografia do início do século XX](https://www.acessibilidade.gov.pt/wp-content/uploads/2020/04/1_imagens_3.jpg)
+
 
 Provavelmente, no caso desta fotografia bastaria um texto alternativo com: "Fotografia do início do século XX". E, provavelmente, se quiséssemos descrever com mais detalhe a fotografia, daríamos uma descrição aprofundada dos aspectos técnicos que caracterizam uma fotografia do início do século XX.
 

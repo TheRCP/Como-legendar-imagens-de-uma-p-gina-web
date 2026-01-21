@@ -1,3 +1,6 @@
+### Atualização de repositório
+Atualizado a 21 de janeiro de 2026
+
 ## Como legendar imagens de uma página web
 
 ### Introdução
